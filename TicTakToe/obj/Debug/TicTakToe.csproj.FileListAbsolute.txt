@@ -1,0 +1,9 @@
+D:\mvc\TicTakToe\TicTakToe\obj\Debug\TicTakToe.csprojAssemblyReference.cache
+D:\mvc\TicTakToe\TicTakToe\obj\Debug\TicTakToe.Form1.resources
+D:\mvc\TicTakToe\TicTakToe\obj\Debug\TicTakToe.Properties.Resources.resources
+D:\mvc\TicTakToe\TicTakToe\obj\Debug\TicTakToe.csproj.GenerateResource.cache
+D:\mvc\TicTakToe\TicTakToe\bin\Debug\TicTakToe.exe.config
+D:\mvc\TicTakToe\TicTakToe\bin\Debug\TicTakToe.exe
+D:\mvc\TicTakToe\TicTakToe\bin\Debug\TicTakToe.pdb
+D:\mvc\TicTakToe\TicTakToe\obj\Debug\TicTakToe.exe
+D:\mvc\TicTakToe\TicTakToe\obj\Debug\TicTakToe.pdb
